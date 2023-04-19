@@ -1,0 +1,2 @@
+# JsSomeEvery-Exercise
+ 
